@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/03fa1923c7e85dbd4a6637b636e66915/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c88c77de8c7fafac86889e5a0a07ad42/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b0a9430f101a9ae4b94eec93aea23118/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/296671f3022df46c8160bb6ebef6d3c8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/be50affcb60fab60483df0a9d0a0d554/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/3f50f80f75e25df3f377bc6531f12bc6/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/db9b0e189a8133edb5b661de011abde6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/5f3319f94bf95755fca15eb5f3cc5b4e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c6c63e089e8db56b60d01c2422a7e025/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/90108890ae3cefe522db8c956e66ea84/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/8b668fca843fac7867a1b7013d02a624/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/310d22536053cc8b05ed71bf306f6765/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/0c81d7adcdbcb8ba82402a0e432d48f0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/9e2966629ce5f5377ae389eb0c965375/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/cee9bc3e77e7b744812c8f50831f01fa/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/77c9aa8ebf942a782f716ebd234e7595/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b7fb9654f0e5d2244e0ae7dee3bb59d9/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/54eaf059c20165bc97d3774e8122ff74/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/7c0e33f8d66d5d326020309c456edd5c/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/96c6b37e98a0cd8563131cc8bdda4039/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/00e466387ce15affe82b609938414343/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/92a4bd2030fc7c8962137a4d814415a0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4ce0aa0e6faec0743ce6a648ad85e22f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4726be0979ae1c58309c5ba13335153d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/1326cb2724c0a52e4d4ff15aa77cff20/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/d4df5312d0ad1f70f2f104b619a49dc6/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b07fe3c7fa57fcea69c86ff4a4c53932/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/a34c2a8de3cae3b56efec3638ade32f1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/7a2ba703f6ee5b61f885f2eacb5baee3/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/8842a7436f834ea99defbe99263d7962/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/ee80e516d91564e0a24cb06ad4913dab/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/1be3a57451451019a9db08777385da21/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/de2dadfe1c23ca4dc15e3952a78a32d6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c0d10a3464b15599154aef2f0fbe9661/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c88c77de8c7fafac86889e5a0a07ad42/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c88c77de8c7fafac86889e5a0a07ad42/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/00e466387ce15affe82b609938414343/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/00e466387ce15affe82b609938414343/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4726be0979ae1c58309c5ba13335153d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4726be0979ae1c58309c5ba13335153d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/00e466387ce15affe82b609938414343/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.quizapp.MainActivity
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:14:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:16:13-55
+	android:theme
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.quizapp.QuizQuestionsActivity
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:24:9-26:52
+	android:screenOrientation
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:25:13-50
+activity#com.quizapp.ResultActivity
+ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:screenOrientation
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml:28:19-49
+uses-sdk
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/03fa1923c7e85dbd4a6637b636e66915/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/03fa1923c7e85dbd4a6637b636e66915/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c88c77de8c7fafac86889e5a0a07ad42/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c88c77de8c7fafac86889e5a0a07ad42/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b0a9430f101a9ae4b94eec93aea23118/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b0a9430f101a9ae4b94eec93aea23118/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/296671f3022df46c8160bb6ebef6d3c8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/296671f3022df46c8160bb6ebef6d3c8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/be50affcb60fab60483df0a9d0a0d554/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/be50affcb60fab60483df0a9d0a0d554/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/3f50f80f75e25df3f377bc6531f12bc6/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/3f50f80f75e25df3f377bc6531f12bc6/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/db9b0e189a8133edb5b661de011abde6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/db9b0e189a8133edb5b661de011abde6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/5f3319f94bf95755fca15eb5f3cc5b4e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/5f3319f94bf95755fca15eb5f3cc5b4e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c6c63e089e8db56b60d01c2422a7e025/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c6c63e089e8db56b60d01c2422a7e025/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/90108890ae3cefe522db8c956e66ea84/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/90108890ae3cefe522db8c956e66ea84/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/8b668fca843fac7867a1b7013d02a624/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/8b668fca843fac7867a1b7013d02a624/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/310d22536053cc8b05ed71bf306f6765/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/310d22536053cc8b05ed71bf306f6765/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/0c81d7adcdbcb8ba82402a0e432d48f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/0c81d7adcdbcb8ba82402a0e432d48f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/9e2966629ce5f5377ae389eb0c965375/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/9e2966629ce5f5377ae389eb0c965375/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/cee9bc3e77e7b744812c8f50831f01fa/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/cee9bc3e77e7b744812c8f50831f01fa/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/77c9aa8ebf942a782f716ebd234e7595/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/77c9aa8ebf942a782f716ebd234e7595/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b7fb9654f0e5d2244e0ae7dee3bb59d9/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b7fb9654f0e5d2244e0ae7dee3bb59d9/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/54eaf059c20165bc97d3774e8122ff74/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/54eaf059c20165bc97d3774e8122ff74/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/7c0e33f8d66d5d326020309c456edd5c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/7c0e33f8d66d5d326020309c456edd5c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/96c6b37e98a0cd8563131cc8bdda4039/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/96c6b37e98a0cd8563131cc8bdda4039/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/00e466387ce15affe82b609938414343/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/00e466387ce15affe82b609938414343/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/92a4bd2030fc7c8962137a4d814415a0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/92a4bd2030fc7c8962137a4d814415a0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4ce0aa0e6faec0743ce6a648ad85e22f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4ce0aa0e6faec0743ce6a648ad85e22f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4726be0979ae1c58309c5ba13335153d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/4726be0979ae1c58309c5ba13335153d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/1326cb2724c0a52e4d4ff15aa77cff20/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/1326cb2724c0a52e4d4ff15aa77cff20/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/d4df5312d0ad1f70f2f104b619a49dc6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/d4df5312d0ad1f70f2f104b619a49dc6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b07fe3c7fa57fcea69c86ff4a4c53932/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/b07fe3c7fa57fcea69c86ff4a4c53932/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/a34c2a8de3cae3b56efec3638ade32f1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/a34c2a8de3cae3b56efec3638ade32f1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/7a2ba703f6ee5b61f885f2eacb5baee3/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/7a2ba703f6ee5b61f885f2eacb5baee3/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/8842a7436f834ea99defbe99263d7962/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/8842a7436f834ea99defbe99263d7962/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/ee80e516d91564e0a24cb06ad4913dab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/ee80e516d91564e0a24cb06ad4913dab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/1be3a57451451019a9db08777385da21/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/1be3a57451451019a9db08777385da21/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/de2dadfe1c23ca4dc15e3952a78a32d6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/de2dadfe1c23ca4dc15e3952a78a32d6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c0d10a3464b15599154aef2f0fbe9661/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anushka/.gradle/caches/transforms-2/files-2.1/c0d10a3464b15599154aef2f0fbe9661/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anushka/Downloads/Simple Quiz/Version_7/app/src/main/AndroidManifest.xml
